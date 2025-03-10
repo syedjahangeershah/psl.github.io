@@ -64024,7 +64024,7 @@ A.tO.prototype={
 ae(){return new A.JS()}}
 A.JS.prototype={
 au(){this.aS()
-var s=new A.Ht("http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",B.R7,$.aw())
+var s=new A.Ht("https://rumble.com/live-hls-dvr/5xwnen/playlist.m3u8?",B.R7,$.aw())
 this.d=s
 s.ds(0).bi(new A.a7d(this),t.P)},
 ZX(){var s,r=this.d
