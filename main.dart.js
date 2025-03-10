@@ -48609,7 +48609,7 @@ A.pi.prototype={
 ai(){return new A.tt()}}
 A.tt.prototype={
 aq(){this.b2()
-var s=new A.Bg(A.j1("https://content.jwplatform.com/manifests/yp34SRmf.m3u8").k(0),B.Ir,$.aG())
+var s=new A.Bg(A.j1("http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4").k(0),B.Ir,$.aG())
 s.e1(0).b0(new A.Y2(this),t.P)
 this.d=s
 s.mo(!0)},
